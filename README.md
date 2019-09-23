@@ -1,2 +1,2 @@
 # SpringSecurity
-SpringSecurity simple project
+SpringSecurity simple project with h2 database
